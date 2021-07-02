@@ -83,7 +83,7 @@
 					<authConfig> <username>jhenz04</username> <password>973e40ba-5679-41dd-8974-8f499878e464</password> </authConfig>
 					<images>
 						<image>
-							<name>julianhenz/m154-crm-web-mvn</name>
+							<name>jhenz04/modul154_docker</name>
 							<build>
 								<dockerFileDir>${project.basedir}</dockerFileDir>
 								<assembly>
